@@ -1,2 +1,0 @@
-# yi-test
-test-api
